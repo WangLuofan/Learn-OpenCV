@@ -2,7 +2,7 @@
 
 if [ $# -lt 1 ] 
 then
-	echo "usage:./compile <FILENAME>"
+	echo "usage:./opencv_clang_macos_compile <FILENAME>"
 	exit 0;
 fi
 
